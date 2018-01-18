@@ -1,4 +1,4 @@
-var title = "Lauren's Lovely Landscapes";
+var title = "Joseba Lauren's Lovely Landscapes";
 
 var websiteTitle = {
 
